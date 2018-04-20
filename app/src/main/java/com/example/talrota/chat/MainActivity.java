@@ -1,4 +1,4 @@
-package com.example.nitzanwert.chat;
+package com.example.talrota.chat;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package com.example.nitzanwert.chat;
+package com.example.talrota.chat;
 
 import org.junit.Test;
 
